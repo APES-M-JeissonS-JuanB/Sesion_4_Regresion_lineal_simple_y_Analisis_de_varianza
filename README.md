@@ -1,0 +1,1 @@
+# Sesi-n_4_-Regresi-n_lineal_simple_y_An-lisis_de_varianza
